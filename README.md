@@ -1,4 +1,4 @@
-# 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
+# 🚀 Hi there! I'm **Charmaine** 
 
 <div align="center">
   
@@ -86,7 +86,6 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ## 🌟 **My Journey**
 - 🎓 **BSIT Graduate** - Strong foundation in Information Technology
-- 🥇 **Valedictorian** - BSIT Class 2025  
 - 🎖️ **Cum Laude Graduate** - Maintaining high academic excellence
 - 🏢 **Professional Developer** - Currently employed at Telex Business Support Services
 - 💻 **1,000+ GitHub Contributions** - Consistent coding practice
@@ -115,17 +114,6 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 </div>
 
----
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/LEVi19xx/LEVi19xx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-</div>
-
----
 
 ## 💭 **Philosophy**
 
