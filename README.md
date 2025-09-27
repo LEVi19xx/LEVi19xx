@@ -1,10 +1,10 @@
-# 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
+# 🚀 Hi there! I'm **Charmaine** 
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" width="100%" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Code+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
   
 </div>
 
