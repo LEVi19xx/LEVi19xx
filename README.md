@@ -1,6 +1,16 @@
+---
+
+## 📈 **Contribution Graph**
+
 <div align="center">
   
-  ![Header](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif)
+  <img src="https://raw.githubusercontent.com/LEVi19xx/LEVi19xx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+</div>
+
+---<div align="center">
+  
+  ![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
   
   # 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
   
@@ -98,30 +108,24 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ## 🚧 **Featured Projects**
 
-### 🔍 **TrackIO** - Employee Monitoring System
-> **Tech Stack:** Laravel • Vue.js • MySQL  
-> **Status:** 🚀 Active Development  
-> Advanced employee monitoring system with real-time analytics, comprehensive reporting, and dashboard insights.
+<div align="center">
 
-### 🗳️ **VoSys** - OLSHCO Online Voting System  
-> **Tech Stack:** React • Node.js • MongoDB  
-> **Status:** 🔧 In Development  
-> Secure online voting platform for OLSHCO College Department with authentication and live results.
+### 🔍 **TrackIO**
+*Advanced employee monitoring system with real-time analytics and comprehensive reporting*
+
+### 🗳️ **VoSys**  
+*OLSHCO Online Voting System for College Department with secure authentication*
 
 ### 🛒 **E-commerce Platform**
-> **Tech Stack:** Flutter • Laravel API • MySQL  
-> **Status:** 📱 Testing Phase  
-> Modern responsive e-commerce solution with mobile app, payment integration, and admin dashboard.
+*Modern responsive web and mobile e-commerce solutions with payment integration*
 
-### 🏢 **BrgyBiclatan** - Barangay Management System
-> **Tech Stack:** PHP • MySQL • Bootstrap  
-> **Status:** ✅ Successfully Deployed  
-> Comprehensive barangay management system for efficient local government operations and citizen services.
+### 🏢 **BrgyBiclatan**
+*Comprehensive barangay management system for efficient local government operations*
 
-### 🌍 **Tourist Web Mobile** - Travel Application
-> **Tech Stack:** React Native • Express.js • MongoDB  
-> **Status:** 🎨 UI/UX Design Phase  
-> Interactive travel and tourism app with booking system, recommendations, and location services.
+### 🌍 **Tourist Web Mobile**
+*Interactive travel and tourism application with booking and recommendation features*
+
+</div>
 
 ---
 
@@ -139,9 +143,16 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 <div align="center">
   
-  > **"Building dreams, one line of code at a time"** ✨  
-  > *- CJ Coloma*
-  
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║    "Building dreams, one line of code at a time" ║
+║                                                  ║
+║                    - CJ Coloma                   ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
 </div>
 
 ---
