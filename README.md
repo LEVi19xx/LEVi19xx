@@ -1,119 +1,178 @@
-# Hi there! 👋 I'm CJ Coloma
+# 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
 
-## 🎓 About Me
-**BSIT Graduate - Full Stack Developer @ Telex Business Support Services** 🏆
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=LEVi19xx&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+</div>
+
+---
+
+## 🎯 **About Me**
+
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+🏆 **BSIT Graduate - Full Stack Developer @ Telex Business Support Services**
 
 I'm a passionate full-stack developer with a strong foundation in computer science and a dedication to creating efficient, user-friendly web-based systems for real-world use. As a BSIT graduate currently working at Telex Business Support Services, I bring both theoretical knowledge and practical industry experience to every project I work on.
 
-## 🚀 What I'm Up To
-- 🔭 Currently working as a **Full Stack Developer** at Telex Business Support Services
-- 🌱 Always exploring new technologies to improve my skills and stay updated in tech
+### 🔥 **What I'm Up To**
+- 💼 Currently working as a **Full Stack Developer** at Telex Business Support Services
+- 🌱 Always exploring new technologies to improve my skills and stay updated in tech  
 - 💡 Passionate about applying my knowledge and contributing to impactful IT projects
 - 🎯 Goal: Creating efficient, user-friendly web-based systems for real-world applications
 - 🤝 Gaining hands-on experience in web development, database management, and modern frameworks
 
-## 💻 Tech Stack & Skills
+---
 
-### Programming Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+## 🛠️ **Tech Stack & Skills**
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+<div align="center">
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 💻 **Programming Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🚀 **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Tools & Technologies
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+### ⚡ **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Design & Multimedia
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-
-### Other Technologies
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LEVi19xx&theme=holi&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVi19xx&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LEVi19xx&theme=holi&hide_border=false" alt="GitHub Streak" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LEVi19xx&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVi19xx&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVi19xx&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEVi19xx&theme=react-dark&hide_border=true&area=true)
+  
 </div>
 
-## 🏆 Achievements
+---
+
+## 🏆 **Achievements & Highlights**
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=LEVi19xx&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+### 🌟 **My Journey**
 - 🎓 **BSIT Graduate** - Strong foundation in Information Technology
-- 🏢 **Professional Developer** - Currently employed at Telex Business Support Services
-- 🥇 **Valedictorian** - BSIT Class 2025
+- 🥇 **Valedictorian** - BSIT Class 2025  
 - 🎖️ **Cum Laude Graduate** - Maintaining high academic excellence
+- 🏢 **Professional Developer** - Currently employed at Telex Business Support Services
 - 💻 **1,000+ GitHub Contributions** - Consistent coding practice
-- 🌟 **Full-Stack Developer** - Proficient in both frontend and backend
-
-## 📈 Current Projects
-- **TrackIO** - Employee monitoring system
-- **VoSys** - OLSHCO Online Voting System for College Department
-- **E-commerce Platforms** - Modern web and mobile solutions
-- **BrgyBiclatan** - Barangay management system
-- **Tourist Web Mobile** - Travel and tourism application
-
-## 🌐 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEVi19xx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/charmaine-joyce-coloma-60588437b)
+- 🌟 **Full-Stack Expertise** - Proficient in both frontend and backend technologies
 
 ---
 
+## 🚧 **Current Projects**
+
 <div align="center">
-  <h3>💭 "Building efficient solutions, one line of code at a time" 💭</h3>
-  <p><em>Passionate about creating user-friendly web-based systems for real-world impact.</em></p>
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🔍 **TrackIO** | Employee monitoring system with analytics | Laravel, Vue.js, MySQL | 🚀 Active |
+| 🗳️ **VoSys** | OLSHCO Online Voting System | React, Node.js, MongoDB | 🔧 Development |
+| 🛒 **E-commerce Platform** | Modern web & mobile solutions | Flutter, Laravel API | 📱 Testing |
+| 🏢 **BrgyBiclatan** | Barangay management system | PHP, MySQL, Bootstrap | ✅ Completed |
+| 🌍 **Tourist Web Mobile** | Travel & tourism application | React Native, Express | 🎨 Design Phase |
+
 </div>
 
 ---
 
-⭐ From [LEVi19xx](https://github.com/LEVi19xx)
+## 📈 **Contribution Graph**
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/LEVi19xx/LEVi19xx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+</div>
+
+---
+
+## 💭 **Philosophy & Quotes**
+
+<div align="center">
+  
+  > **"Innovation distinguishes between a leader and a follower"**  
+  > *- Steve Jobs*
+  
+  > **"Code is like humor. When you have to explain it, it's bad"**  
+  > *- Cory House*
+  
+  > **"The only way to do great work is to love what you do"**  
+  > *- Steve Jobs*
+  
+  > **"Building dreams, one line of code at a time"** ✨  
+  > *- CJ Coloma*
+  
+</div>
+
+---
+
+## 🤝 **Let's Connect!**
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/charmaine-joyce-coloma-60588437b)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEVi19xx)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+  
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing!+%F0%9F%8C%B1" alt="Typing SVG" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/LEVi19xx/count.svg)
+  
+  **⭐ From [LEVi19xx](https://github.com/LEVi19xx) - Made with ❤️ and lots of ☕**
+  
+</div>
