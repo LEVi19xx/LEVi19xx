@@ -1,6 +1,8 @@
-# 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
-
 <div align="center">
+  
+  ![Header](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c4.gif)
+  
+  # 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
   
@@ -11,8 +13,6 @@
 ---
 
 ## 🎯 **About Me**
-
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 🏆 **BSIT Graduate - Full Stack Developer @ Telex Business Support Services**
 
@@ -73,15 +73,7 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ---
 
-## 💻 **Developer Portfolio Cover**
-
-<div align="center">
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=CJ%20Coloma&fontSize=50&fontAlign=70&fontAlignY=40&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20BSIT%20Graduate%20%7C%20Problem%20Solver&descAlign=70&descAlignY=60" />
-  
-</div>
-
-## 📊 **GitHub Analytics**
+## 💻 **GitHub Analytics**
 
 <div align="center">
   
@@ -94,15 +86,7 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ---
 
-## 🏆 **Achievements & Highlights**
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=LEVi19xx&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
-### 🌟 **My Journey**
+## 🌟 **My Journey**
 - 🎓 **BSIT Graduate** - Strong foundation in Information Technology
 - 🥇 **Valedictorian** - BSIT Class 2025  
 - 🎖️ **Cum Laude Graduate** - Maintaining high academic excellence
@@ -151,18 +135,9 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ---
 
-## 💭 **Philosophy & Quotes**
+## 💭 **Philosophy**
 
 <div align="center">
-  
-  > **"Innovation distinguishes between a leader and a follower"**  
-  > *- Steve Jobs*
-  
-  > **"Code is like humor. When you have to explain it, it's bad"**  
-  > *- Cory House*
-  
-  > **"The only way to do great work is to love what you do"**  
-  > *- Steve Jobs*
   
   > **"Building dreams, one line of code at a time"** ✨  
   > *- CJ Coloma*
