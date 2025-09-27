@@ -1,10 +1,11 @@
-# 🚀 Hi there! I'm **Charmaine Joyce Coloma**
+# 🚀 Hi there! I'm **Charmaine** 
 
 <div align="center">
+  
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="100%" />
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Code+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
-  
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
+  
 </div>
 
 ---
@@ -13,11 +14,11 @@
 
 🏆 **BSIT Graduate - Full Stack Developer @ Telex Business Support Services**
 
-I'm a passionate **full-stack developer** with a strong foundation in computer science and a dedication to creating efficient, user-friendly web-based systems for real-world use. As a **BSIT graduate** currently working at **Telex Business Support Services**, I bring both theoretical knowledge and practical industry experience to every project I work on.
+I'm a passionate full-stack developer with a strong foundation in computer science and a dedication to creating efficient, user-friendly web-based systems for real-world use. As a BSIT graduate currently working at Telex Business Support Services, I bring both theoretical knowledge and practical industry experience to every project I work on.
 
 ### 🔥 **What I'm Up To**
 - 💼 Currently working as a **Full Stack Developer** at Telex Business Support Services
-- 🌱 Always exploring new technologies to improve my skills and stay updated in tech
+- 🌱 Always exploring new technologies to improve my skills and stay updated in tech  
 - 💡 Passionate about applying my knowledge and contributing to impactful IT projects
 - 🎯 Goal: Creating efficient, user-friendly web-based systems for real-world applications
 - 🤝 Gaining hands-on experience in web development, database management, and modern frameworks
@@ -73,16 +74,19 @@ I'm a passionate **full-stack developer** with a strong foundation in computer s
 ## 💻 **GitHub Analytics**
 
 <div align="center">
+  
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LEVi19xx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVi19xx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVi19xx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Most Used Languages" />
+  
 </div>
 
 ---
 
 ## 🌟 **My Journey**
 - 🎓 **BSIT Graduate** - Strong foundation in Information Technology
-- 🥇 **Valedictorian** - BSIT Class 2025
+- 🥇 **Valedictorian** - BSIT Class 2025  
 - 🎖️ **Cum Laude Graduate** - Maintaining high academic excellence
 - 🏢 **Professional Developer** - Currently employed at Telex Business Support Services
 - 💻 **1,000+ GitHub Contributions** - Consistent coding practice
@@ -119,32 +123,27 @@ I'm a passionate **full-stack developer** with a strong foundation in computer s
 
 ---
 
-## 💭 **Philosophy**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%22Building+dreams%2C+one+line+of+code+at+a+time%22;-+CJ+Coloma" alt="Philosophy" />
-</div>
-
----
-
 ## 🤝 **Let's Connect!**
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/charmaine-joyce-coloma-60588437b)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEVi19xx)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-  
-  <br/><br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/charmaine-joyce-coloma-60588437b)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LEVi19xx)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+  
+  <br/><br/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing!+%F0%9F%8C%B1" alt="Typing SVG" />
+  
 </div>
 
 ---
 
 <div align="center">
-  
-  **⭐ From [LEVi19xx](https://github.com/LEVi19xx) - Made with ❤️ and lots of ☕**
-  
+  
+  ![Visitor Count](https://profile-counter.glitch.me/LEVi19xx/count.svg)
+  
+  **⭐ From [LEVi19xx](https://github.com/LEVi19xx) - Made with ❤️ and lots of ☕**
+  
 </div>
