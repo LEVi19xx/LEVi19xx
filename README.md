@@ -94,21 +94,6 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ---
 
-## 🚧 **Featured Projects**
-
-* ### **TrackIO**
-    advanced employee monitoring system
-* ### **VoSys**
-    OLSHCO Online Voting System
-* ### **E-commerce Platform**
-   modern, responsive web and mobile e-commerce solution
-* ### **BrgyBiclatan**
-    comprehensive barangay management system
-* ### **Tourist Web Mobile**
-    interactive travel and tourism application
-
----
-
 ## 🤝 **Let's Connect!**
 
 <div align="center">
