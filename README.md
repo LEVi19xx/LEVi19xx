@@ -96,30 +96,18 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ## 🚧 **Featured Projects**
 
-<div align="center">
-### 🔍 **TrackIO**
-*Advanced employee monitoring system with real-time analytics and comprehensive reporting*
+Your projects demonstrate your full-stack capabilities across different domains, from business systems to e-commerce and local government operations.
 
-### 🗳️ **VoSys**
-*OLSHCO Online Voting System for College Department with secure authentication*
-
-### 🛒 **E-commerce Platform**
-*Modern responsive web and mobile e-commerce solutions with payment integration*
-
-### 🏢 **BrgyBiclatan**
-*Comprehensive barangay management system for efficient local government operations*
-
-### 🌍 **Tourist Web Mobile**
-*Interactive travel and tourism application with booking and recommendation features*
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LEVi19xx/LEVi19xx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+* ### **TrackIO**
+    An **advanced employee monitoring system** with real-time analytics and comprehensive reporting, showcasing expertise in data aggregation and visualization for business intelligence.
+* ### **VoSys**
+    **OLSHCO Online Voting System** for the College Department, featuring secure authentication and robust data integrity, highlighting proficiency in secure system design.
+* ### **E-commerce Platform**
+    A **modern, responsive web and mobile e-commerce solution** built with secure payment integration, demonstrating skills in developing transactional systems.
+* ### **BrgyBiclatan**
+    A **comprehensive barangay management system** designed for efficient local government operations, focusing on workflow optimization and public service delivery.
+* ### **Tourist Web Mobile**
+    An **interactive travel and tourism application** with booking and recommendation features, illustrating full-stack development for consumer-facing services.
 
 ---
 
