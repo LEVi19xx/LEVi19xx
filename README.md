@@ -144,8 +144,6 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/LEVi19xx/count.svg)
-  
   **⭐ From [LEVi19xx](https://github.com/LEVi19xx) - Made with ❤️ and lots of ☕**
   
 </div>
