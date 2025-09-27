@@ -1,22 +1,10 @@
----
-
-## 📈 **Contribution Graph**
+# 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/LEVi19xx/LEVi19xx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-</div>
-
----<div align="center">
-  
-  ![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-  
-  # 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="100%" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=LEVi19xx&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
 
@@ -143,15 +131,7 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 <div align="center">
   
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║    "Building dreams, one line of code at a time" ║
-║                                                  ║
-║                    - CJ Coloma                   ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%22Building+dreams%2C+one+line+of+code+at+a+time%22;-+CJ+Coloma" alt="Philosophy" />
 
 </div>
 
