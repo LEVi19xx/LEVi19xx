@@ -97,15 +97,15 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 ## 🚧 **Featured Projects**
 
 * ### **TrackIO**
-    An **advanced employee monitoring system** with real-time analytics and comprehensive reporting, showcasing expertise in data aggregation and visualization for business intelligence.
+    advanced employee monitoring system
 * ### **VoSys**
-    **OLSHCO Online Voting System** for the College Department, featuring secure authentication and robust data integrity, highlighting proficiency in secure system design.
+    OLSHCO Online Voting System
 * ### **E-commerce Platform**
-    A **modern, responsive web and mobile e-commerce solution** built with secure payment integration, demonstrating skills in developing transactional systems.
+   modern, responsive web and mobile e-commerce solution
 * ### **BrgyBiclatan**
-    A **comprehensive barangay management system** designed for efficient local government operations, focusing on workflow optimization and public service delivery.
+    comprehensive barangay management system
 * ### **Tourist Web Mobile**
-    An **interactive travel and tourism application** with booking and recommendation features, illustrating full-stack development for consumer-facing services.
+    interactive travel and tourism application
 
 ---
 
@@ -127,8 +127,6 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 ---
 
 <div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/LEVi19xx/count.svg)
   
   **⭐ From [LEVi19xx](https://github.com/LEVi19xx) - Made with ❤️ and lots of ☕**
   
