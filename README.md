@@ -73,16 +73,22 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ---
 
+## 💻 **Developer Portfolio Cover**
+
+<div align="center">
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=CJ%20Coloma&fontSize=50&fontAlign=70&fontAlignY=40&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20BSIT%20Graduate%20%7C%20Problem%20Solver&descAlign=70&descAlignY=60" />
+  
+</div>
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LEVi19xx&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVi19xx&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LEVi19xx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVi19xx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVi19xx&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LEVi19xx&theme=react-dark&hide_border=true&area=true)
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVi19xx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Most Used Languages" />
   
 </div>
 
@@ -106,19 +112,32 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ---
 
-## 🚧 **Current Projects**
+## 🚧 **Featured Projects**
 
-<div align="center">
+### 🔍 **TrackIO** - Employee Monitoring System
+> **Tech Stack:** Laravel • Vue.js • MySQL  
+> **Status:** 🚀 Active Development  
+> Advanced employee monitoring system with real-time analytics, comprehensive reporting, and dashboard insights.
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🔍 **TrackIO** | Employee monitoring system with analytics | Laravel, Vue.js, MySQL | 🚀 Active |
-| 🗳️ **VoSys** | OLSHCO Online Voting System | React, Node.js, MongoDB | 🔧 Development |
-| 🛒 **E-commerce Platform** | Modern web & mobile solutions | Flutter, Laravel API | 📱 Testing |
-| 🏢 **BrgyBiclatan** | Barangay management system | PHP, MySQL, Bootstrap | ✅ Completed |
-| 🌍 **Tourist Web Mobile** | Travel & tourism application | React Native, Express | 🎨 Design Phase |
+### 🗳️ **VoSys** - OLSHCO Online Voting System  
+> **Tech Stack:** React • Node.js • MongoDB  
+> **Status:** 🔧 In Development  
+> Secure online voting platform for OLSHCO College Department with authentication and live results.
 
-</div>
+### 🛒 **E-commerce Platform**
+> **Tech Stack:** Flutter • Laravel API • MySQL  
+> **Status:** 📱 Testing Phase  
+> Modern responsive e-commerce solution with mobile app, payment integration, and admin dashboard.
+
+### 🏢 **BrgyBiclatan** - Barangay Management System
+> **Tech Stack:** PHP • MySQL • Bootstrap  
+> **Status:** ✅ Successfully Deployed  
+> Comprehensive barangay management system for efficient local government operations and citizen services.
+
+### 🌍 **Tourist Web Mobile** - Travel Application
+> **Tech Stack:** React Native • Express.js • MongoDB  
+> **Status:** 🎨 UI/UX Design Phase  
+> Interactive travel and tourism app with booking system, recommendations, and location services.
 
 ---
 
