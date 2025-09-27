@@ -1,4 +1,4 @@
-# 🚀 Hi there! I'm **Charmaine** 
+# 🚀 Hi there! I'm **Charmaine Joyce Coloma** 
 
 <div align="center">
   
@@ -86,6 +86,7 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ## 🌟 **My Journey**
 - 🎓 **BSIT Graduate** - Strong foundation in Information Technology
+- 🥇 **Valedictorian** - BSIT Class 2025  
 - 🎖️ **Cum Laude Graduate** - Maintaining high academic excellence
 - 🏢 **Professional Developer** - Currently employed at Telex Business Support Services
 - 💻 **1,000+ GitHub Contributions** - Consistent coding practice
@@ -113,7 +114,6 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 *Interactive travel and tourism application with booking and recommendation features*
 
 </div>
-
 
 ## 💭 **Philosophy**
 
