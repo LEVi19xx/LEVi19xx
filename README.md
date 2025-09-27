@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! 👋 I'm CJ Coloma<br><br>🎓 BSIT graduate | Full Stack Developer @ Telex Business Support Services.<br>🤝 I enjoy creating efficient, user-friendly web-based systems for real-world use.  <br>👐 Passionate about applying my knowledge and contributing to impactful IT projects.  <br>🌱 Gaining hands-on experience in web development, database management, and modern frameworks.  <br>💬 Always exploring new technologies to improve my skills and stay updated in tech.  <br>⚡ Reach out via [LinkedIn] https://ph.linkedin.com/in/charmaine-joyce-coloma-60588437b
+# Hi there! 👋 I'm CJ Coloma
+🎓 BSIT graduate | Full Stack Developer @ Telex Business Support Services.<br>🤝 I enjoy creating efficient, user-friendly web-based systems for real-world use.  <br>👐 Passionate about applying my knowledge and contributing to impactful IT projects.  <br>🌱 Gaining hands-on experience in web development, database management, and modern frameworks.  <br>💬 Always exploring new technologies to improve my skills and stay updated in tech.  <br>⚡ Reach out via [LinkedIn] https://ph.linkedin.com/in/charmaine-joyce-coloma-60588437b
 
 
 # 💻 Tech Stack:
