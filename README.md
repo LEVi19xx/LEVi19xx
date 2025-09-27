@@ -1,8 +1,7 @@
-# 🚀 Hi there! I'm **Charmaine** 
+# 🚀 Hi there! I'm **Charmaine Joyce Coloma**
 
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="100%" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Code+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
   
@@ -18,7 +17,7 @@ I'm a passionate **full-stack developer** with a strong foundation in computer s
 
 ### 🔥 **What I'm Up To**
 - 💼 Currently working as a **Full Stack Developer** at Telex Business Support Services
-- 🌱 Always exploring new technologies to improve my skills and stay updated in tech  
+- 🌱 Always exploring new technologies to improve my skills and stay updated in tech
 - 💡 Passionate about applying my knowledge and contributing to impactful IT projects
 - 🎯 Goal: Creating efficient, user-friendly web-based systems for real-world applications
 - 🤝 Gaining hands-on experience in web development, database management, and modern frameworks
@@ -74,19 +73,16 @@ I'm a passionate **full-stack developer** with a strong foundation in computer s
 ## 💻 **GitHub Analytics**
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LEVi19xx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVi19xx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVi19xx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Most Used Languages" />
-  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LEVi19xx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LEVi19xx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEVi19xx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Most Used Languages" />
 </div>
 
 ---
 
 ## 🌟 **My Journey**
 - 🎓 **BSIT Graduate** - Strong foundation in Information Technology
-- 🥇 **Valedictorian** - BSIT Class 2025  
+- 🥇 **Valedictorian** - BSIT Class 2025
 - 🎖️ **Cum Laude Graduate** - Maintaining high academic excellence
 - 🏢 **Professional Developer** - Currently employed at Telex Business Support Services
 - 💻 **1,000+ GitHub Contributions** - Consistent coding practice
@@ -96,27 +92,37 @@ I'm a passionate **full-stack developer** with a strong foundation in computer s
 
 ## 🚧 **Featured Projects**
 
-Your projects demonstrate your full-stack capabilities across different domains, from business systems to e-commerce and local government operations.
+<div align="center">
+### 🔍 **TrackIO**
+*Advanced employee monitoring system with real-time analytics and comprehensive reporting*
 
-* ### **TrackIO**
-    An **advanced employee monitoring system** with real-time analytics and comprehensive reporting, showcasing expertise in data aggregation and visualization for business intelligence.
-* ### **VoSys**
-    **OLSHCO Online Voting System** for the College Department, featuring secure authentication and robust data integrity, highlighting proficiency in secure system design.
-* ### **E-commerce Platform**
-    A **modern, responsive web and mobile e-commerce solution** built with secure payment integration, demonstrating skills in developing transactional systems.
-* ### **BrgyBiclatan**
-    A **comprehensive barangay management system** designed for efficient local government operations, focusing on workflow optimization and public service delivery.
-* ### **Tourist Web Mobile**
-    An **interactive travel and tourism application** with booking and recommendation features, illustrating full-stack development for consumer-facing services.
+### 🗳️ **VoSys**
+*OLSHCO Online Voting System for College Department with secure authentication*
+
+### 🛒 **E-commerce Platform**
+*Modern responsive web and mobile e-commerce solutions with payment integration*
+
+### 🏢 **BrgyBiclatan**
+*Comprehensive barangay management system for efficient local government operations*
+
+### 🌍 **Tourist Web Mobile**
+*Interactive travel and tourism application with booking and recommendation features*
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LEVi19xx/LEVi19xx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
 ## 💭 **Philosophy**
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%22The+best+way+to+predict+the+future+is+to+create+it%22;%22Always+code+as+if+the+guy+who+ends+up+maintaining+your+code+will+be+a+violent+psychopath+who+knows+where+you+live%22" alt="Philosophy" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%22Building+dreams%2C+one+line+of+code+at+a+time%22;-+CJ+Coloma" alt="Philosophy" />
 </div>
 
 ---
@@ -131,9 +137,8 @@ Your projects demonstrate your full-stack capabilities across different domains,
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
   
   <br/><br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing!+%F0%9F%8C%B1" alt="Typing SVG" />
-  
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing!+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 ---
