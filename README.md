@@ -110,10 +110,6 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=LEVi19xx&icon=0&color=0" alt="Profile Views" />
-</div>
-
-<div align="center">
   <h3>💭 "Building efficient solutions, one line of code at a time" 💭</h3>
   <p><em>Passionate about creating user-friendly web-based systems for real-world impact.</em></p>
 </div>
