@@ -96,8 +96,6 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ## 🚧 **Featured Projects**
 
-Your projects demonstrate your full-stack capabilities across different domains, from business systems to e-commerce and local government operations.
-
 * ### **TrackIO**
     An **advanced employee monitoring system** with real-time analytics and comprehensive reporting, showcasing expertise in data aggregation and visualization for business intelligence.
 * ### **VoSys**
