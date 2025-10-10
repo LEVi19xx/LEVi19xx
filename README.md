@@ -12,7 +12,7 @@
 
 ## 🎯 **About Me**
 
-🏆 **BSIT Graduate - Full Stack Developer @ Telex Business Support Services**
+🏆 **BSIT Graduate - Full Stack Developer**
 
 I'm a passionate full-stack developer with a strong foundation in computer science and a dedication to creating efficient, user-friendly web-based systems for real-world use. As a BSIT graduate currently working at Telex Business Support Services, I bring both theoretical knowledge and practical industry experience to every project I work on.
 
